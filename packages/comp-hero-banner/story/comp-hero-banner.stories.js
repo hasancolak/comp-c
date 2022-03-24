@@ -6,7 +6,7 @@ export default { title: 'Hero Banner' };
 export const primary = () => (
   <div>
     <HeroBanner 
-      img="https://github.com/hasancolak/comp-c/blob/master/packages/comp-hero-banner/story/hero-banner.png" 
+      img="https://raw.githubusercontent.com/hasancolak/comp-c/master/packages/comp-hero-banner/story/hero-banner.png" 
       headline="Say hello" 
       subHeadline="Sub header"/>
   </div>
