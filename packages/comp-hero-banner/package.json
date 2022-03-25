@@ -28,11 +28,11 @@
     "react": "^17.0.0"
   },
   "devDependencies": {
-    "react": "^17.0.0",
-    "@hasancolak/comp-builder": "^1.0.0"
+    "@hasancolak/comp-builder": "^1.0.0",
+    "react": "^17.0.0"
   },
   "dependencies": {
-    "clsx": "^1.1.0",
-    "@hasancolak/comp-button": "^1.0.0"
+    "@hasancolak/comp-button": "^1.0.0",
+    "clsx": "^1.1.0"
   }
 }
