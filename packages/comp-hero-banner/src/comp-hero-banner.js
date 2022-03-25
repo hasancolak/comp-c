@@ -1,11 +1,12 @@
 import React from 'react';
 import cx from 'clsx';
 import styles from './styles.css';
+import {Button} from '@hasancolak/comp-button';
 
 const HeroBanner = ({
   img,
   headline,
-  subHeadline,
+  subHeadline
 }) =>  {
 
   const classes = cx(
@@ -22,6 +23,8 @@ const HeroBanner = ({
         <div className={styles.text}>
           <h1>{headline}</h1>
           <h2>{subHeadline}</h2>
+          <br/>
+          <Button variant="secondary">Button Text</Button>
         </div>    
       </div>
     </div>
