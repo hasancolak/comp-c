@@ -1,10 +1,11 @@
 {
   "name": "@hasancolak/comp-hero-banner",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "license": "ISC",
   "main": "dist/comp-hero-banner.cjs.js",
   "module": "dist/comp-hero-banner.esm.js",
+  "src": "src/comp-hero-banner.js",
   "directories": {
     "src": "src",
     "test": "__tests__"
@@ -27,10 +28,11 @@
     "react": "^17.0.0"
   },
   "devDependencies": {
-    "react": "^17.0.0"
+    "react": "^17.0.0",
+    "@hasancolak/comp-builder": "^1.0.0"
   },
   "dependencies": {
-    "@hasancolak/comp-button": "^0.0.2",
-    "clsx": "^1.1.0"
+    "clsx": "^1.1.0",
+    "@hasancolak/comp-button": "^1.0.0"
   }
 }
