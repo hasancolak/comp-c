@@ -5,7 +5,6 @@
   "license": "ISC",
   "main": "dist/comp-hero-banner.cjs.js",
   "module": "dist/comp-hero-banner.esm.js",
-  "src": "src/comp-hero-banner.js",
   "directories": {
     "src": "src",
     "test": "__tests__"
