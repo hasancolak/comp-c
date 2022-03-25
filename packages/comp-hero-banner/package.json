@@ -1,6 +1,6 @@
 {
   "name": "@hasancolak/comp-hero-banner",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "license": "ISC",
   "main": "dist/comp-hero-banner.cjs.js",
