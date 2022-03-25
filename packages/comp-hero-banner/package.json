@@ -1,6 +1,6 @@
 {
   "name": "@hasancolak/comp-hero-banner",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "license": "ISC",
   "main": "dist/comp-hero-banner.cjs.js",
@@ -31,7 +31,7 @@
     "react": "^17.0.0"
   },
   "dependencies": {
-    "@hasancolak/comp-button":"^0.0.1",
+    "@hasancolak/comp-button": "^0.0.1",
     "clsx": "^1.1.0"
   }
 }
